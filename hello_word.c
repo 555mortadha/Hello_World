@@ -7,5 +7,6 @@ int main(int argc,char argv[])
   printf("Hello World\n");
   printf("Github already exist and push already done!\n");
   printf("Sum of a and b =%d\n",sum(a,b));
+  printf("Mortadha Test Github !!");
   return 0;
 }
